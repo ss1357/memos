@@ -1,5 +1,7 @@
-# 概要
+---
+name: Custom issue template
+about: Describe this issue template's purpose here.
 
-# 作業ログ
+---
 
-# 結果とか
+
